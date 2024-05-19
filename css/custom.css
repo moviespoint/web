@@ -4,7 +4,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Arvo', serif;
-  padding-top: 56px; /* Ensure the navbar doesn't overlap content */
+  padding-top: 20px; /* Ensure the navbar doesn't overlap content */
 }
 
 .navbar-brand {
@@ -29,7 +29,7 @@ body {
 
 #name {
   margin-top: 16rem;
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: bold;
   color: #fff;
   text-align: center;
